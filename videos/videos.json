@@ -1,0 +1,17 @@
+videoMap = {
+"lumines": "https://motionbgs.com/media/1637/lumines-celestial-journey.960x540.mp4",
+"kitagawa": "bgvideos/Mdud.mp4",
+"bling": "bgvideos/bling26.mp4",
+"scenes": "bgvideos/scenary37.mp4",
+"chika": "bgvideos/Chika.mp4",
+"ruka": "bgvideos/ruka.mp4",
+"favorite": "bgvideos/fav.mp4",
+"akari": "bgvideos/akari.mp4",
+"ashi": "bgvideos/ashi.mp4",
+"kimi": "bgvideos/kimi.mp4",
+"marin": "bgvideos/marin.mp4",
+"marinech": "bgvideos/marinee.mp4",
+"houshou": "bgvideos/houshou.mp4",
+"treasurebox": "bgvideos/full3m.mp4",
+"tealforgor": "bgvideos/teal.mp4"
+}
